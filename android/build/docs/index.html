@@ -1,0 +1,46 @@
+<h1>shinyobjects Module</h1>
+<h2>Description</h2>
+<p>This module allows you to add shiny objects to your Appcelerator programs.</p>
+<p>This release contains the ability to create a button similar to the iPhone system buttons that have a shine effect and color.
+Both the text color and button color may easily be modified with properties.</p>
+<h2>Accessing the shinyobjects Module</h2>
+<p>To access this module from JavaScript, you would do the following:</p>
+<pre><code>var shinyobjects = require("shiny.objects");
+</code></pre>
+<p>The shinyobjects variable is a reference to the Module object.</p>
+<h2>Reference</h2>
+<p>createButton        creates a shiny button</p>
+<p>Properties</p>
+<p>backgroundColor     sets the background color of the button</p>
+<p>borderRadius        (float) sets the border radius of the button (iPhone system buton is about 6.0)</p>
+<p>color           sets the color of the button text</p>
+<p>Events</p>
+<p>click - allows an event to be attached to the click of the button</p>
+<h2>Usage</h2>
+<p>// Shiny Objects button</p>
+<p>var shinyobjects = require("shiny.objects");</p>
+<p>var btnShiny = shinyobjects.createButton({ </p>
+<pre><code>"color":"white",
+
+"backgroundColor":"blue",
+
+"top": 90,
+
+"width":100,
+
+"height":30,
+
+"borderRadius": 6.0,
+
+"title": "Shiny"
+</code></pre>
+<p>});</p>
+<p>btnShiny.addEventListener('click', function()</p>
+<p>{</p>
+<pre><code>alert('You clicked the shiny button.');
+</code></pre>
+<p>});</p>
+<h2>Author</h2>
+<p>Scott Mason</p>
+<h2>License</h2>
+<p>See the LICENSE file included with this distribution</p>

@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+description: Shiny Objects
+author: Scott Mason
+license: Commercial
+copyright: Copyright (c) 2011 by On Queue Software, LLC
+
+
+# these should not be edited
+name: shinyobjects
+moduleid: shiny.objects
+guid: 9d8a8614-49e8-40b5-ae52-e28501be881e
+platform: android
+minsdk: 1.7.0

@@ -1,0 +1,628 @@
+Tshinyobjects
+v3
+r1
+cCheck dependencies
+cProcessPCH /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch.gch ShinyObjects_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch.gch ShinyObjects_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButton.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModuleAssets.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModule.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButtonProxy.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModuleAssets.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModule.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButtonProxy.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButton.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a normal armv6
+cLibtool /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a normal armv7
+cCreateUniversalBinary /Users/sam/Projects/ShinyObjects/build/Release-iphoneos/libShinyObjects.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CFAF0000000000000AB3
+t1297403823
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004D54D02E00000000000004FE
+t1297403950
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D49500000000000000C4
+t1297405077
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/AvailabilityMacros.h
+c000000004D4F74C20000000000007A5E
+t1297052866
+s31326
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/pthread.h
+c000000004D4F6E910000000000003BF6
+t1297051281
+s15350
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdbool.h
+c000000004D09AC6C0000000000000644
+t1292479596
+s1604
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stddef.h
+c000000004D09AC6C0000000000003197
+t1292479596
+s12695
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/Bridge.h
+c000000004D59723A0000000000000268
+t1297707578
+s616
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/KrollCallback.h
+c000000004CCA44A40000000000000466
+t1288324260
+s1126
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"KrollContext.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/KrollContext.h
+c000000004D90E27A0000000000000D5D
+t1301340794
+s3421
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+i"TiContextRefPrivate.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/KrollObject.h
+c000000004D86698A0000000000000714
+t1300654474
+s1812
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/LayoutConstraint.h
+c000000004D59723A00000000000009F1
+t1297707578
+s2545
+i<UIKit/UIKit.h>
+i"TiDimension.h"
+i"TiUtils.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/ListenerEntry.h
+c000000004CAC8CB80000000000000269
+t1286376632
+s617
+i"TiModule.h"
+i"TiEvaluator.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiAnimation.h
+c000000004CAC8CB80000000000000D5B
+t1286376632
+s3419
+i"TiProxy.h"
+i"TiPoint.h"
+i"TiColor.h"
+i"ListenerEntry.h"
+i"LayoutConstraint.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiBase.h
+c000000004D90E27A0000000000002ACB
+t1301340794
+s10955
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"defines.h"
+i"TiThreading.h"
+i"TiPublicAPI.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiColor.h
+c000000004CAC8CB800000000000002E6
+t1286376632
+s742
+i<UIKit/UIKit.h>
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/Ti.h
+c000000004CAC8CB8000000000000071C
+t1286376632
+s1820
+i<TiCore/TiBase.h>
+i<TiCore/TiContextRef.h>
+i<TiCore/TiStringRef.h>
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiBase.h
+c000000004CAC8CB80000000000001A03
+t1286376632
+s6659
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiContextRef.h
+c000000004CAC8CB800000000000014D8
+t1286376632
+s5336
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiContextRefPrivate.h
+c000000004CAC8CB80000000000000860
+t1286376632
+s2144
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiCore.h
+c000000004CAC8CB8000000000000069B
+t1286376632
+s1691
+i<TiCore/Ti.h>
+i<TiCore/TiStringRefCF.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiObjectRef.h
+c000000004CAC8CB8000000000000945D
+t1286376632
+s37981
+i<TiCore/TiBase.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiStringRef.h
+c000000004CAC8CB8000000000000168A
+t1286376632
+s5770
+i<TiCore/TiValueRef.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiStringRefCF.h
+c000000004CAC8CB80000000000000A3B
+t1286376632
+s2619
+i"TiBase.h"
+i<CoreFoundation/CoreFoundation.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/TiValueRef.h
+c000000004CAC8CB80000000000002AE2
+t1286376632
+s10978
+i<TiCore/TiBase.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore/WebKitAvailability.h
+c000000004CAC8CB80000000000006BD6
+t1286376632
+s27606
+i<AvailabilityMacros.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiDimension.h
+c000000004D59723A000000000000119C
+t1297707578
+s4508
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiEvaluator.h
+c000000004D90E27A0000000000000346
+t1301340794
+s838
+i<Foundation/Foundation.h>
+i"KrollContext.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiFile.h
+c000000004D59723A0000000000000368
+t1297707578
+s872
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiGradient.h
+c000000004CAC8CB800000000000005FC
+t1286376632
+s1532
+i"TiProxy.h"
+i"TiDimension.h"
+i"TiPoint.h"
+i<CoreGraphics/CoreGraphics.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiHost.h
+c000000004D90E27A00000000000004E7
+t1301340794
+s1255
+i"TiProxy.h"
+i"Bridge.h"
+i"TiEvaluator.h"
+i"TiStylesheet.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiModule.h
+c000000004D59723A0000000000000409
+t1297707578
+s1033
+i"TiUtils.h"
+i"TiEvaluator.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiPoint.h
+c000000004CAC8CB800000000000002D3
+t1286376632
+s723
+i"TiProxy.h"
+i"TiDimension.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiProxy.h
+c000000004D86698A0000000000001233
+t1300654474
+s4659
+i"TiBase.h"
+i"TiEvaluator.h"
+i"KrollCallback.h"
+i"KrollObject.h"
+i<pthread.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiPublicAPI.h
+c000000004CC87D740000000000000A62
+t1288207732
+s2658
+i<Foundation/Foundation.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiStylesheet.h
+c000000004D59723A000000000000027F
+t1297707578
+s639
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiThreading.h
+c000000004CC87D7400000000000009CE
+t1288207732
+s2510
+i<Foundation/Foundation.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiUIView.h
+c000000004D59723A0000000000000F0E
+t1297707578
+s3854
+i"TiProxy.h"
+i"TiAnimation.h"
+i"TiGradient.h"
+i"LayoutConstraint.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiUtils.h
+c000000004D59723A0000000000001523
+t1297707578
+s5411
+i"TiColor.h"
+i"TiDimension.h"
+i"WebFont.h"
+i"TiFile.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiViewProxy.h
+c000000004D86698A0000000000001DD8
+t1300654474
+s7640
+i"TiProxy.h"
+i"TiUIView.h"
+i<pthread.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/WebFont.h
+c000000004CAC8CB800000000000003C2
+t1286376632
+s962
+i<UIKit/UIKit.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/defines.h
+c000000004D59723A000000000000087F
+t1297707578
+s2175
+
+N/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.h
+c000000004DD13CE300000000000000F2
+t1305558243
+s242
+i"TiModule.h"
+
+N/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m
+c000000004DD13FE000000000000007DF
+t1305559008
+s2015
+i"ShinyObjectsModule.h"
+i"TiBase.h"
+i"TiHost.h"
+i"TiUtils.h"
+
+N/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.h
+c000000004DD13CE300000000000000A0
+t1305558243
+s160
+
+N/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m
+c000000004DD13CE30000000000000108
+t1305558243
+s264
+i"ShinyObjectsModuleAssets.h"
+
+N/Users/sam/Projects/ShinyObjects/ShinyObjectsButton.h
+c000000004DD13FE000000000000001A2
+t1305559008
+s418
+i"TiUIView.h"
+
+N/Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m
+c000000004DD13FE0000000000000262B
+t1305559008
+s9771
+i"ShinyObjectsButton.h"
+i"ShinyObjectsButtonProxy.h"
+i"TiUtils.h"
+
+N/Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.h
+c000000004DD13FE00000000000000151
+t1305559008
+s337
+i"TiViewProxy.h"
+
+N/Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m
+c000000004DD13FE0000000000000015E
+t1305559008
+s350
+i"ShinyObjectsButtonProxy.h"
+i"TiUtils.h"
+
+N/Users/sam/Projects/ShinyObjects/ShinyObjects_Prefix.pch
+c000000004DD13CE3000000000000003E
+t1305558243
+s62
+i<Foundation/Foundation.h>
+
+N/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/libShinyObjects.a
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjects.LinkFileList
+c000000004DD14017000000000000022B
+t1305559063
+s555
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButton.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButtonProxy.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModule.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModuleAssets.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjects.LinkFileList
+c000000004DD14017000000000000022B
+t1305559063
+s555
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButton.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButtonProxy.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModule.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModuleAssets.o
+t2
+s0
+
+N/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a
+t2
+s0
+
+N/var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6213ed967781b341^eeaf06977781b341^---0#1#0#--18"Check dependencies
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButton.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327251863.372767
+e327251863.640503
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButton.o
+x/Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.mcb9f5f977781b341^59f7a3977781b341^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m0000000000000000^2159"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButton.o ShinyObjectsButton.m normal armv6 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv6 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButton.o
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButtonProxy.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327251863.372789
+e327251863.477695
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButtonProxy.o
+x/Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.maab65f977781b341^0a497a977781b341^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m0000000000000000^2179"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButtonProxy.o ShinyObjectsButtonProxy.m normal armv6 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv6 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsButtonProxy.o
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModule.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327251863.372774
+e327251863.516672
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModule.o
+x/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m17b95f977781b341^f64384977781b341^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m0000000000000000^2175"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModule.o Classes/ShinyObjectsModule.m normal armv6 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv6 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModule.o
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModuleAssets.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327251863.372783
+e327251863.413505
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModuleAssets.o
+x/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m82a85f977781b341^8ae669977781b341^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m0000000000000000^2199"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModuleAssets.o Classes/ShinyObjectsModuleAssets.m normal armv6 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv6 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjectsModuleAssets.o
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButton.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327251863.398133
+e327251863.648787
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButton.o
+x/Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m1f1266977781b341^7216a6977781b341^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m0000000000000000^2159"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButton.o ShinyObjectsButton.m normal armv7 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv7 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/ShinyObjectsButton.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButton.o
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButtonProxy.o /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327251863.397234
+e327251863.508240
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButtonProxy.o
+x/Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m7ae265977781b341^e71a82977781b341^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m0000000000000000^2179"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButtonProxy.o ShinyObjectsButtonProxy.m normal armv7 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv7 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/ShinyObjectsButtonProxy.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsButtonProxy.o
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModule.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327251863.397204
+e327251863.517366
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModule.o
+x/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.mfad465977781b341^d67184977781b341^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m0000000000000000^2175"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModule.o Classes/ShinyObjectsModule.m normal armv7 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv7 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModule.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModule.o
+
+CCompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModuleAssets.o /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327251863.397202
+e327251863.433226
+r1
+xCompileC
+xbuild/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModuleAssets.o
+x/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.mbbd365977781b341^dae66e977781b341^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m0000000000000000^2199"CompileC build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModuleAssets.o Classes/ShinyObjectsModuleAssets.m normal armv7 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv7 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -include /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch -c /Users/sam/Projects/ShinyObjects/Classes/ShinyObjectsModuleAssets.m -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjectsModuleAssets.o
+
+CCreateUniversalBinary /Users/sam/Projects/ShinyObjects/build/Release-iphoneos/libShinyObjects.a normal "armv6 armv7"
+s327251863.654520
+e327251863.664633
+r1
+xCreateUniversalBinary
+x/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/libShinyObjects.a
+xnormal
+xarmv6 armv7
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Create universal binary /Users/sam/Projects/ShinyObjects/build/Release-iphoneos/libShinyObjects.a4e9da7977781b341^ee24aa977781b341^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/libShinyObjects.a00002044fc01f041^696"CreateUniversalBinary build/Release-iphoneos/libShinyObjects.a normal "armv6 armv7"    cd /Users/sam/Projects/ShinyObjects    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a -o /Users/sam/Projects/ShinyObjects/build/Release-iphoneos/libShinyObjects.a
+
+CLibtool /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a normal armv6
+s327251863.641244
+e327251863.647645
+r1
+xLibtool
+x/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a
+xnormal
+xarmv6
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Libtool build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a normal armv62d43a4977781b341^36cba5977781b341^---0#0#0#--898"Libtool build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a normal armv6    cd /Users/sam/Projects/ShinyObjects    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -filelist /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/ShinyObjects.LinkFileList -framework Foundation -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv6/libShinyObjects.a
+
+CLibtool /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a normal armv7
+s327251863.648906
+e327251863.654398
+r1
+xLibtool
+x/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a
+xnormal
+xarmv7
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Libtool build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a normal armv74430a6977781b341^6e86a7977781b341^---0#0#0#--898"Libtool build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a normal armv7    cd /Users/sam/Projects/ShinyObjects    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -filelist /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/ShinyObjects.LinkFileList -framework Foundation -o /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/Objects-normal/armv7/libShinyObjects.a
+
+CProcessPCH /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch.gch ShinyObjects_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327251863.035662
+e327251863.396968
+r1
+xProcessPCH
+x/var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch.gch
+xShinyObjects_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile ShinyObjects_Prefix.pch844909977781b341^cb9d65977781b341^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/sam/Projects/ShinyObjects/ShinyObjects_Prefix.pch0000000000000000^2105"ProcessPCH /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch.gch ShinyObjects_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv7 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -c /Users/sam/Projects/ShinyObjects/ShinyObjects_Prefix.pch -o /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-evmzqvgtkajfesdnefgufrxtnrba/ShinyObjects_Prefix.pch.gch
+
+CProcessPCH /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch.gch ShinyObjects_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327251863.035660
+e327251863.371783
+r1
+xProcessPCH
+x/var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch.gch
+xShinyObjects_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile ShinyObjects_Prefix.pch8d4709977781b341^452b5f977781b341^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/sam/Projects/ShinyObjects/ShinyObjects_Prefix.pch0000000000000000^2105"ProcessPCH /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch.gch ShinyObjects_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2    cd /Users/sam/Projects/ShinyObjects    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-generated-files.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-own-target-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-all-target-headers.hmap -iquote /Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/ShinyObjects-project-headers.hmap -I/Users/sam/Projects/ShinyObjects/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiCore" -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources/armv6 -I/Users/sam/Projects/ShinyObjects/build/shinyobjects.build/Release-iphoneos/shinyobjects.build/DerivedSources -F/Users/sam/Projects/ShinyObjects/build/Release-iphoneos -c /Users/sam/Projects/ShinyObjects/ShinyObjects_Prefix.pch -o /var/folders/p-/p-sNwkDZGbWhJCskrADlIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShinyObjects_Prefix-gcphlvavkeizzvebymmgcibslowz/ShinyObjects_Prefix.pch.gch
+
