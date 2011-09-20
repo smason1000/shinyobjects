@@ -2,4 +2,4 @@ This is the main directory for the source code to the shiny objects module discu
 
 There are directories for both iOS and Android.
 
-YOu may need to change some configuration files to utilize your Titanium and Android SDK versions and locations.
+You may need to change some configuration files to utilize your Titanium and Android SDK versions and locations.
