@@ -1,3 +1,5 @@
 This is the main directory for the source code to the shiny objects module discussed at the 2011 Appcelerator Codestrong conference.
 
-There are directory for both iOS and Android.
+There are directories for both iOS and Android.
+
+YOu may need to change some configuration files to utilize your Titanium and Android SDK versions and locations.
